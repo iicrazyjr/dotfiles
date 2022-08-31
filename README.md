@@ -1,4 +1,3 @@
-
 # Dotfiles
 
 This are my dotfiles
@@ -11,6 +10,7 @@ Terminal emulator
 ### Vscode
 
 Code editor
+Theme: Material Theme High Contrast
 
 ### Zsh
 
@@ -23,3 +23,6 @@ Unix shell
  - [Fzf](https://github.com/junegunn/fzf)
  - [Tmux (Oh my tmux theme)](https://github.com/pangliang/oh-my-tmux)
 
+## Fonts
+ - [Meslo Fonts](https://github.com/romkatv/powerlevel10k#fonts)
+ - [Vscode Fonts](https://www.nerdfonts.com/font-downloads)
